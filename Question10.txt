@@ -1,0 +1,6 @@
+Question-10 A do while loop is executed 
+-> At least once 
+-> At least twice
+-> At most once 
+
+Ans: A do while loop is executed at least once.
