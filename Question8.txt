@@ -1,0 +1,6 @@
+
+Q.8. What can be done using one type of loop can also be done by using other two type of loops ? True/False
+
+Ans: Yes, It is often true that any computation that can be done using one type of loop can 
+also be accomplished using another type of loop,
+the only difference is in the syntax and the conditions under which the loops operate.
